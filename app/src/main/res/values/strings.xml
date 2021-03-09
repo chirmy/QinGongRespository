@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QinGong</string>
+    <string name="search">搜索</string>
+    <string name="searchlabel">searchlabel</string>
+    <string name="homepage_fragment">homepage_fragment</string>
+    <string name="share_fragment">share_fragment</string>
+    <string name="self_fragment">self_fragment</string>
+</resources>
